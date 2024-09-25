@@ -57,3 +57,7 @@ app:
       - http://localhost:3000/oauth2/redirect
       - myandroidapp://oauth2/redirect
       - myiosapp://oauth2/redirect
+cloudinary:
+  cloud-name: dtgltis1a
+  api-key: 651248387562523
+  api-secret: 8a-BIXVEZl48tPw5_pGV-cRSuWM
